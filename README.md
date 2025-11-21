@@ -10,5 +10,5 @@ New Era University - Quezon City
 **Programming**: Java   
 **Web**  : HTML, CSS
 ## 📇 Contacts & Links  
-**LinkedIn**: www.linkedin.com/in/janelle-sarcilla-66817935b  
+**LinkedIn**: [Janelle Sarcilla](www.linkedin.com/in/janelle-sarcilla-66817935b)   
 **Email**: janellesarcilla@gmail.com
