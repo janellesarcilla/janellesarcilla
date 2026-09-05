@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Janelle Sarcilla
-- 💻 **3rd year CompSci student trying to survive Computer Science. 
+- 💻 **3rd year CompSci student trying to survive Computer Science.** 
 ## 🎓 Education 
 - **Bachelor of Science in Computer Science**  
 New Era University - Quezon City  
